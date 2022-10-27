@@ -48,8 +48,8 @@ DROP TABLE IF EXISTS `employeeaddress`;
 /*!50503 SET character_set_client = utf8mb4 */;
 CREATE TABLE `employeeaddress` (
   `Address_ID` int DEFAULT NULL,
-  `Emp_ID` int DEFAULT NULL,
-  `Address_1` text,
+  `Emp_ID`  int DEFAULT NULL,
+  `Address_1` int DEFAULT NULL,
   `Address_2` text,
   `Address_3` text,
   `County` text,
