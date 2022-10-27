@@ -205,7 +205,7 @@ INSERT INTO `employees`
 `Job_Title`,
 `Salary`)
 VALUES
-(	23	,"Anna","Marks","Trainee",	21400	);
+(	23	,"Annae","Marks","Trainee",	21400	);
 INSERT INTO `employees`
 (`Emp_ID`,
 `First_Name`,
@@ -213,7 +213,7 @@ INSERT INTO `employees`
 `Job_Title`,
 `Salary`)
 VALUES
-(	24	,"Michael","Jones","Senior Consultant",	52300	);
+(	24	,"Michaeal","Jones","Senior Consultant",	52300	);
 INSERT INTO `employees`
 (`Emp_ID`,
 `First_Name`,
